@@ -1,0 +1,12 @@
+@layer tailwind-base, antd,reset;
+
+@layer tailwind-base {
+  @tailwind base;
+
+}
+@layer antd {
+  @import url(reset.css) layer(reset);
+}
+
+@tailwind components;
+@tailwind utilities;
