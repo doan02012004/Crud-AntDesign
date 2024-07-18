@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 4 update",
+      "image": "http://picsum.photos/id/34/300/300",
+      "price": 444,
+      "description": "fgfgf",
+      "id": 3
+    },
+    {
+      "name": "Sản phẩm 5 update",
+      "image": "http://picsum.photos/id/30/300/300",
+      "price": 500,
+      "description": "Đẹp",
+      "id": 4
+    },
+    {
+      "name": "Sản phẩm 3 update",
+      "image": "http://picsum.photos/id/34/300/300",
+      "price": 555,
+      "description": "Đẹp",
+      "id": 5
+    }
+  ]
+}
