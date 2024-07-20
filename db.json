@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sản phẩm A",
+      "price": 300,
+      "image": "http://picsum.photos/id/34/400/400",
+      "description": "Mô tả"
+    },
+    {
+      "name": "sản phẩm 2",
+      "image": "https://picsum.photos/id/2/305/312",
+      "price": 444,
+      "description": "hay",
+      "id": 2
+    },
+    {
+      "name": "sản phẩm 3",
+      "image": "https://picsum.photos/id/19/305/312",
+      "price": 555,
+      "description": "hay",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "doan@gmail.com",
+      "password": "$2a$10$K1Qxch67jBjBKWxo1LMx4.TTs/vg0wnOj1MQpQnQA4PDhUN.wkCiq",
+      "id": 1
+    }
+  ]
+}
